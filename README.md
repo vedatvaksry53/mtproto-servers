@@ -1,2 +1,7 @@
-# mtproto-servers
+# Почему одного пинга недостаточно для выбора прокси
+
 Как оценивать MTProto-сервер по доступности чатов и загрузке небольших файлов, не принимая разовое измерение задержки за гарантию скорости.
+
+Сайт: https://vedatvaksry53.github.io/mtproto-servers/
+
+Полный каталог MTProxy: https://tgmtproxy.github.io/mtproxy/
